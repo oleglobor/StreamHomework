@@ -1,3 +1,3 @@
-public enum Type {
+public enum Type { //
     READING, NEW, DONE
 }
